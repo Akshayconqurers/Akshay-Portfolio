@@ -1,0 +1,79 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Cloud Computing",
+      "description": "Gained a strong foundation in cloud technologies through comprehensive training in Amazon Web Services (AWS) and successful completion of the Google Cloud Career Practitioner and Google Gen-AI labs. Applied this knowledge across various projects, demonstrating proficiency in cloud-based solutions."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Data Structure and Algorithm",
+      "description": "Currently enhancing my expertise in DSA, having mastered key topics such as Arrays, Object-Oriented Programming (OOPs), and Linked Lists. I have solved over 150 problems on LeetCode, consistently refining my skills and deepening my understanding of complex algorithms."
+
+
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Web Development",
+      "description": "Acquired robust web development skills and successfully built a responsive website using HTML, CSS, and JavaScript. Demonstrated these abilities through a hands-on project, showcasing proficiency in front-end development and design."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Leadership & Community Management:",
+      "description": "Leveraged my leadership skills by managing college coding communities such as Google Developer Students Club (GDSC) and ACM. Currently, I contribute to IEEE, where I have successfully organized and hosted numerous webinars and coding competitions, fostering a collaborative and innovative environment."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
